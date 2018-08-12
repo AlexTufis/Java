@@ -1,4 +1,5 @@
 # Java
 
  Create a book class with a id,title, page count. 
-Manage a collection of books and allow the customer to borrow a book and return it.
+Manage a collection of books and allow the customer to borrow a book and return it.Poti imprumuta o carte in limita stocului disponibil.
+Add a menu.
