@@ -47,14 +47,4 @@ public class Book {
 	public boolean isBorrowed() {
 		return borrowed;
 	}
-	
-	
-/*	public static void main(String[] arguments) 
-    {
-        // Small test of the Book class
-        Book example = new Book(1,"The Da Vinci Code",150);
-        System.out.println("Id: " + example.getId());
-        System.out.println("Title: " + example.getTitle());
-        System.out.println("Pages: " + example.getPages());
-    }*/
 }
